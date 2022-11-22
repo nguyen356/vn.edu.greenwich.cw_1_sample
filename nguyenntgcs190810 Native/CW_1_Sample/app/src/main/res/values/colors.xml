@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="light_green">#4F9089</color>
+    <color name="green">#15D6EF</color>
+    <color name="dark_green">#57904F</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="pink_red">#FF6961</color>
+    <color name="Blue_ocean">#FF03DAA3</color>
+    <color name="grey">#EFF5F5</color>
+    <color name="light_grey">#D6E4E5</color>
+    <color name="orange">#EB6440</color>
+    <color name="leaf">#54B435</color>
+    <color name="greentree">#379237</color>
+    <color name="bluewater">#2192FF</color>
+    <color name="primary">#32FF6A</color>
+    <color name="Discordblack">#23272a</color>
+    <color name="Discordprimary">#7289da</color>
+
+</resources>
